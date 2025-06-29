@@ -1,0 +1,1 @@
+This is for practice during my 5 days of GitHub mastery introduced by ChatGPT after my Concurrency topic.
