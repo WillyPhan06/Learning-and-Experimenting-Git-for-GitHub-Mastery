@@ -11,4 +11,8 @@ print("Make sixth change")
 print("Make seventh change")
 print("Make eighth change")
 print("Make ninth change")
+<<<<<<< HEAD
 print("This is main branch")
+=======
+print("This is from another new stuff with some changes for conflict")
+>>>>>>> another_new_stuff
